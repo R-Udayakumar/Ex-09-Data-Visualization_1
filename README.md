@@ -31,9 +31,9 @@ Apply data visualization techniques to identify the patterns of the data.
 # Developed by Udayakumar R
 # Reg no: 212222230163
 
-import seaborn as sns
 import pandas as pd
 import matplotlib.pyplot as plt
+import seaborn as sns
 df = sns.load_dataset("tips")
 df.head()
 df.isnull().sum()
@@ -107,31 +107,33 @@ plt.show()
 
 ### DATA PREPROCESSING
 
-![image](https://github.com/Anandanaruvi/Ex-08-Data-Visualization_1/assets/120443233/ce874f7f-97c8-4b7c-9fb9-1e8cef510221)
+![image](https://github.com/R-Udayakumar/Ex-09-Data-Visualization_1/assets/118708024/08b357a7-7e4c-4bc2-9a48-19a8b596e1f4)
 
-![image](https://github.com/Anandanaruvi/Ex-08-Data-Visualization_1/assets/120443233/ed0c1171-06c4-4c69-bd86-0783d59cc439)
+![image](https://github.com/R-Udayakumar/Ex-09-Data-Visualization_1/assets/118708024/f956414a-7889-484e-952f-825e69070d70)
 
-![image](https://github.com/Anandanaruvi/Ex-08-Data-Visualization_1/assets/120443233/24a19229-27e4-4069-85c8-98d7384fab95)
+![image](https://github.com/R-Udayakumar/Ex-09-Data-Visualization_1/assets/118708024/efa36570-0f11-4179-9e01-7a739b9ca73e)
 
-![image](https://github.com/Anandanaruvi/Ex-08-Data-Visualization_1/assets/120443233/d498c9e7-cae2-48ec-9af5-d84599b80b74)
+![image](https://github.com/R-Udayakumar/Ex-09-Data-Visualization_1/assets/118708024/7452769a-27aa-4208-8fa0-bcfc23443962)
 
-![image](https://github.com/Anandanaruvi/Ex-08-Data-Visualization_1/assets/120443233/87ac16e7-b87a-42df-91b2-19cf66559a73) 
+![image](https://github.com/R-Udayakumar/Ex-09-Data-Visualization_1/assets/118708024/7fa43806-78f6-4123-af38-8730216d5f78)
 
-![image](https://github.com/Anandanaruvi/Ex-08-Data-Visualization_1/assets/120443233/7676060b-415d-4abc-b89c-b5be60465f94)
+![image](https://github.com/R-Udayakumar/Ex-09-Data-Visualization_1/assets/118708024/e7fc4eb2-2c5c-4d19-87c0-2ed278ab8f84)
 
-![image](https://github.com/Anandanaruvi/Ex-08-Data-Visualization_1/assets/120443233/40bb415b-97f7-4e17-93da-f564d2b822db)
+![image](https://github.com/R-Udayakumar/Ex-09-Data-Visualization_1/assets/118708024/7f3a9d99-9050-4d5a-bc46-d046503a77cd)
 
-![image](https://github.com/Anandanaruvi/Ex-08-Data-Visualization_1/assets/120443233/a0ae7625-4189-40ce-97c9-d4157564ff1b)
+![image](https://github.com/R-Udayakumar/Ex-09-Data-Visualization_1/assets/118708024/0bd15eb9-d6c6-45c3-8488-25e5e35b35aa)
 
-![image](https://github.com/Anandanaruvi/Ex-08-Data-Visualization_1/assets/120443233/115370dc-f29b-48e4-944e-e7c4169baad0)
+![image](https://github.com/R-Udayakumar/Ex-09-Data-Visualization_1/assets/118708024/5ed71609-626b-4af9-95ae-3c748f95aca7)
 
-![image](https://github.com/Anandanaruvi/Ex-08-Data-Visualization_1/assets/120443233/a18b8b25-06bb-4591-96b6-1f9a9508b5de)
+![image](https://github.com/R-Udayakumar/Ex-09-Data-Visualization_1/assets/118708024/74a989ba-2004-4469-8060-0cc65698f540)
 
-![image](https://github.com/Anandanaruvi/Ex-08-Data-Visualization_1/assets/120443233/82dfb164-67f9-4bbc-b631-e31eed3f3896)
+![image](https://github.com/R-Udayakumar/Ex-09-Data-Visualization_1/assets/118708024/f5b8dc7b-f06a-4821-b2c7-c20918d1eb5f)
 
-![image](https://github.com/Anandanaruvi/Ex-08-Data-Visualization_1/assets/120443233/ea33e316-d2c6-4278-ae30-9d7ce5a5d197)
+![image](https://github.com/R-Udayakumar/Ex-09-Data-Visualization_1/assets/118708024/421f98b3-f20b-4a3c-b63e-697b0073b39e)
 
-![image](https://github.com/Anandanaruvi/Ex-08-Data-Visualization_1/assets/120443233/4e0cc893-ee7a-4c61-901a-03631974a07d)
+![image](https://github.com/R-Udayakumar/Ex-09-Data-Visualization_1/assets/118708024/6e5a2ad2-0b3a-44d5-a18d-7ee8d63296ce)
+
+![image](https://github.com/R-Udayakumar/Ex-09-Data-Visualization_1/assets/118708024/961f2217-ba31-4adf-8078-c5050fc4cce2)
 
 ### RESULT
 
